@@ -5,5 +5,6 @@ Our project for the Flare Hacks Hackathon
 To run the code, move into the directory that you want, and run the designated python file.
 
 
-## Contributors:
-  Abhisar Anand, Aditya Anand, Milan Behera, Srinivas Sriram
+## Contributors
+[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/srinisriram/School_Pi_Safe_FLAREHACKS/graphs/contributors)
+
