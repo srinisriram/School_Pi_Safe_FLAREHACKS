@@ -6,5 +6,5 @@ To run the code, move into the directory that you want, and run the designated p
 
 
 ## Contributors
-[![](https://opencollective.com/html-react-parser/contributors.svg?width=890&button=false)](https://github.com/srinisriram/School_Pi_Safe_FLAREHACKS/graphs/contributors)
+[![](https://opencollective.com/School_Pi_Safe_FLAREHACKS/contributors.svg?width=890&button=false)](https://github.com/srinisriram/School_Pi_Safe_FLAREHACKS/graphs/contributors)
 
